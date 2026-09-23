@@ -1,0 +1,6 @@
+{
+  "name": "StudyQuest: 60-Day Consistency Maker",
+  "description": "A study consistency and session-based progression game for RAMIN. Show up every day, complete genuine study sessions, earn points & XP, and conquer the 60-day quest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
